@@ -1,2 +1,2 @@
 # Riaz-Ahmad-Portfolio
-This is my firs portfolio page as developer just after starting development
+This is my portfolio page as developer/programmer. Initially created with html, CSS and VanillaJS, this is now under progress for conversion to ReactJS.
